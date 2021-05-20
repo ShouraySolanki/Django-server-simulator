@@ -15,6 +15,7 @@ With Implemented create, read, upload, and delete(CRUD) endpoints for an audio f
 4. Get API: 
     The route “<audioFileType>/<audioFileID>” will return the specific audio file - The route “<audioFileType>” will return all the audio files of that type.
     
+ Install requirements using python -m pip install -r requirements.txt 
     
     Below is image of how the output should look like:
     
